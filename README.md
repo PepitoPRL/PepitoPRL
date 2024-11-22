@@ -1,1 +1,1 @@
-https://github.com/rbxb/place.git
+git clone https://github.com/rbxb/place.git
